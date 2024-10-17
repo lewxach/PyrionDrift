@@ -18,12 +18,19 @@ This is an unofficial Python wrapper for the **Orion Drift API** (codenamed A2),
 ## How to get your API Key
 
 Have an external file explorer for your Oculus headset
+
 Go to the path `/sdcard/Android/data/com.AnotherAxiom.A2/files/UnrealGame/A2/A2/Saved/Logs/` in your headset
+
 Download the `A2.log` file
+
 Open it in your preferred text editor (ex,. Notepad)
+
 Do Ctrl+F and type in `login to station dashboard with key`
+
 You should see this large string of random letters and numbers like `oiauhfuhsdghu1.asdasd6.a71m` but it'll be MUCH larger
+
 Copy that
+
 And that's your API key! (That is a PERSONAL api key assigned to your account, don't give it out!!!)
 
 ## Usage
