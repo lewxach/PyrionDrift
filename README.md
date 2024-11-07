@@ -1,6 +1,6 @@
 # Orion Drift API Python Wrapper
 
-**<span style="color:red;">THIS IS NOW TEMPORARILY DEPRECATED AS THE API BASE URL HAS CHANGED.</span>**
+🚨 **THIS IS NOW TEMPORARILY DEPRECATED AS THE API BASE URL HAS CHANGED.** 🚨
 
 This is an unofficial Python wrapper for the **Orion Drift API** (codenamed A2), providing convenient access to the Orion Drift API endpoints. It allows interaction with users, stations, events, roles, and more.
 
